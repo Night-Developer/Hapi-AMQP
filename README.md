@@ -4,12 +4,11 @@ Hapi-AMQP
 Ejemplo de amqp usando una api web usando hapi
 
 
-
 **Requerimientos**
 
-- hapijs
+- [HAPIJS]
 
-- amqp
+- [AMQP]
 
 **Instalar**
 
@@ -19,3 +18,6 @@ Ejemplo de amqp usando una api web usando hapi
 **Ejecutar**
 
     node server.js
+
+[HAPIJS]:http://hapijs.com/
+[AMQP]:https://github.com/postwait/node-amqp
